@@ -3,4 +3,4 @@ Simple python application to play rock, paper scissors with the PC.
 
 ##
 # Output result
-![alt text](https://github.com/TobbyEchonga/translation_application/blob/main/convert.JPG?raw=true)
+![alt text](https://github.com/TobbyEchonga/rock_paper_scissors/blob/main/output.JPG?raw=true)
